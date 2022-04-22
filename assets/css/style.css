@@ -74,6 +74,8 @@ h1 span
     justify-content: space-evenly;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
+    padding: 5px;
+    margin: 10px;
 }
 h2
 {
